@@ -12,7 +12,7 @@ def selecionar_pasta():
         entrada_pasta.insert(0, pasta_selecionada)
 
 janela = tk.Tk()
-janela.title("Selecionar Pasta")
+janela.title("QA - Tool")
 
 largura = 500
 altura = 200
